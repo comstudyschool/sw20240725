@@ -127,7 +127,7 @@ d) Ember.js
 
 ## 1. 메모장을 이용한 HTML 작성
 
-![Untitled](HTML%E1%84%8B%E1%85%B4%20%E1%84%8B%E1%85%B5%E1%84%92%E1%85%A2(%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A9%E1%86%AB)%20cca3d56c854947cfa13dbd1605077247/Untitled.png)
+![Untitled](readme.img/Untitled.png)
 
 - 작성 순서 [https://www.w3schools.com/html/html_editors.asp](https://www.w3schools.com/html/html_editors.asp)
 1. 웹 페이지 구조 설계: 웹 페이지의 구조를 결정하고 어떤 요소들을 포함할지 계획합니다. 예를 들어, 헤더, 내용, 사이드바, 푸터 등을 어떻게 배치할지 결정합니다.
