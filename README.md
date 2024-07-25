@@ -149,7 +149,7 @@ d) Ember.js
 1. **VS Code 다운로드**
     - [Visual Studio Code 공식 사이트](https://code.visualstudio.com/)에 접속하여 자신의 운영체제에 맞는 설치 파일을 다운로드합니다.
     
-    ![Untitled](HTML%E1%84%8B%E1%85%B4%20%E1%84%8B%E1%85%B5%E1%84%92%E1%85%A2(%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A9%E1%86%AB)%20cca3d56c854947cfa13dbd1605077247/Untitled%201.png)
+    ![Untitled](readme.img/Untitled 1.png)
     
 2. **VS Code 설치**
     - 다운로드한 설치 파일을 실행하여 설치 과정을 진행합니다.
